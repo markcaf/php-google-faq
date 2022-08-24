@@ -47,3 +47,20 @@ main p{
     margin-top: 20px;
     font-size: 14px;
 }
+
+footer{
+    background: #f5f5f5;
+}
+
+footer ul{
+    list-style: none;
+    margin: 0;
+    padding: 10px 0;
+    font-size: 12px;
+}
+
+footer li{
+    margin-right: 15px;
+    color: #3d3d3dcc;
+    cursor: pointer;
+} 
