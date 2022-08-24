@@ -35,7 +35,7 @@ header .top_line{
 }
 
 main{
-    margin-top: 140px;
+    margin: 140px 0 40px;
 }
 
 main h2{
@@ -44,5 +44,6 @@ main h2{
 }
 
 main p{
+    margin-top: 20px;
     font-size: 14px;
 }
