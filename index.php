@@ -10,6 +10,26 @@
 </head>
 <body>
 
+    <header>
+        <div class="top_line d-flex align-items-end mb-3">
+            <div class="logo me-1">
+                <img src="https://www.gstatic.com/images/branding/googlelogo/svg/googlelogo_clr_74x24px.svg" alt="Logo Google">
+            </div>
+            <div class="privacy">
+                <span>Privacy e Termini</span>
+            </div>
+        </div>
+
+        <div class="menu">
+            <ul class="d-flex list-unstyled gap-5">
+                <li>Introduzione</li>
+                <li>Norme sulla privacy</li>
+                <li>Termini di servizio</li>
+                <li>Tecnologie</li>
+                <li class="active">Domande Frequenti</li>
+            </ul>
+        </div>
+    </header>
     
 </body>
 </html>
