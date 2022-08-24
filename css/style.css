@@ -1,0 +1,30 @@
+header .privacy{
+    color: #5f6368;
+    font-size: 22px;
+    font-weight: 400;
+}
+
+header li{
+    color: #5f6368;
+    font-size: 15px;
+    font-weight: 500;
+    padding: 0;
+}
+
+header li.active{
+    color: #3367d6;
+    padding-bottom: 6px;
+    border-bottom: 3px solid #3367d6;
+}
+
+header ul{
+    border-bottom: 1px solid rgba(151,151,151,.5);
+}
+
+header .top_line{
+    padding: 18px 18px 5px;
+}
+
+header .menu{
+    padding: 0 18px;
+}
