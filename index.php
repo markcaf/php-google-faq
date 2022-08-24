@@ -134,6 +134,21 @@
         </div>
 
     </main>
+
+    <footer>
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-9">
+                    <ul class="d-flex">
+                        <li>Google</li>
+                        <li>Tutto su Google</li>
+                        <li>Privacy</li>
+                        <li>Termini</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
     
 </body>
 </html>
